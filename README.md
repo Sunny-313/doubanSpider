@@ -92,9 +92,5 @@ sns.boxplot(x='years_bin', y='num_reviews', data=comment_reviews, order=bins)
 
 豆瓣电影TOP250榜单上，除了最近10年的影片获得的影评相比较高以外，其他上映时间的电影得到的影评数量大体保持在同一水平。这也与这两组特征之间较低的相关系数相吻合。
 
-作者：Yinstinctive
-链接：https://www.jianshu.com/p/847c3b620beb
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 
